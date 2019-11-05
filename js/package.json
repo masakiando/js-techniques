@@ -1,0 +1,19 @@
+{
+  "name": "js-tricks-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Quokka1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conradknapp/js-tricks.git"
+  },
+  "author": "Masaki Ando <mimimasski@gmail.com> (https://github.com/masakiando)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conradknapp/js-tricks/issues"
+  },
+  "homepage": "https://github.com/conradknapp/js-tricks#readme"
+}
